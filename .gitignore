@@ -1,0 +1,10 @@
+node_modules
+secrets.json
+
+#Hardhat files
+cache
+artifacts
+
+#local files
+*.local.js
+*.local.sol
