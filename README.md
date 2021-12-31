@@ -1,3 +1,3 @@
-# FreeTheEther challenges
+# CaptureTheEther challenges
 
-Resolutions for the freetheehter.com challenges.
+Resolutions for the capturetheether.com challenges.
