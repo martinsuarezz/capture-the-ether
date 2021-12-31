@@ -1,3 +1,3 @@
 # FreeTheEther challenges
 
-Resolutions for the freetheehter.com challenges
+Resolutions for the freetheehter.com challenges.
